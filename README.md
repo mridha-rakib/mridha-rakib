@@ -2,7 +2,7 @@
 
 I am Rakib Mahmud Mridha, currently pursuing my Bachelor degree, Department of Software Engineering major in Cyber Security. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-khushiSaxena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/khushi321/](https://www.linkedin.com/in/rakib-mahmud-mridha-67963623b/))]([https://www.linkedin.com/in/khushi321/](https://www.linkedin.com/in/rakib-mahmud-mridha-67963623b/))
+[![Linkedin Badge](https://img.shields.io/badge/-Rakib Mahmud Mridha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/rakib-mahmud-mridha-67963623b/))]((https://www.linkedin.com/in/rakib-mahmud-mridha-67963623b/))
 [![Gmail Badge](https://img.shields.io/badge/-KhushiSaxena@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khushisaxenaa32@gmail.com)](mailto:khushisaxenaa32@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
 
