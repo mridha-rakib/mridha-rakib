@@ -1,4 +1,10 @@
 ## Hi, I am Rakib Mahmud Mridha! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=mridha-rakib" alt="mridha-rakib" /> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
+	</a>
+</p>
 
 I am Rakib Mahmud Mridha, currently pursuing my Bachelor degree, Department of Software Engineering major in Cyber Security. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
