@@ -1,6 +1,6 @@
 ## Hi, I am Rakib Mahmud Mrida! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Rakib Mahmud Mridha, currently pursuing my Bachelor degree, Department of Software Engineering major in Cyber Security. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
+I am Rakib Mahmud Mrida, currently pursuing my Bachelor degree, Department of Software Engineering major in Cyber Security. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
